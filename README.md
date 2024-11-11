@@ -1,6 +1,6 @@
 #  Weather Forecast
 
-Este é um projeto simples que mostra as condições climáticas de qualquer cidade do mundo. Foi desenvolvido ao longo de 9 horas para colocar em prática minhas habilidades em **HTML**, **CSS** e **JavaScript**.
+Este é um projeto que visa mostrar as condições climáticas de qualquer cidade do mundo e foi desenvolvido com o intuito de me introduizr ao **HTML**, **CSS** e praticar meu **JavaScript**.
 
 ##  Funcionalidades
 
