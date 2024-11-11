@@ -40,7 +40,7 @@ O projeto foi baseado no vídeo da [Larissa Kich](https://youtu.be/t_GdX1iLYQE?s
 | **Tela de Início**          | ![Tela de Início](https://github.com/KaioGabriel-the/Project-Weather-forecast/blob/ab957cdab0e2db44baed739dc17d3538ffa59027/src/images/img01.png) |
 | **Tela de Resultado**       | ![Tela de Resultado](https://github.com/KaioGabriel-the/Project-Weather-forecast/blob/ab957cdab0e2db44baed739dc17d3538ffa59027/src/images/img02.png) |
 | **Tela sem Pesquisa**       | ![Tela Sem Pesquisa](https://github.com/KaioGabriel-the/Project-Weather-forecast/blob/ab957cdab0e2db44baed739dc17d3538ffa59027/src/images/img03.png) |
-| **Tela Cidade Inexistente** | ![Tela Cidade Inexistente]() |
+
 
 ## 🛠 Como Rodar o Projeto Localmente
 
