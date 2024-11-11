@@ -45,4 +45,4 @@ O projeto foi baseado no vídeo da [Larissa Kich](https://youtu.be/t_GdX1iLYQE?s
 ## 🛠 Como Rodar o Projeto Localmente
 
 ```bash
-git clone https://github.com/KaioGabriel-the/Project-Weather-forecast.git
+git clone https://github.com/EnzoMello/Aplicacao-de-CLIMA.git
